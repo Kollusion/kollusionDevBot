@@ -10,8 +10,6 @@
 **A modern, feature-rich Telegram bot for freelance developers**  
 *Showcase your services, portfolio, and connect with clients automatically*
 
-[Features](#-features) • [Installation](#-installation) • [Configuration](#-configuration) • [Customization](#-customization) • [Deployment](#-deployment)
-
 </div>
 
 ## 🌟 Features
